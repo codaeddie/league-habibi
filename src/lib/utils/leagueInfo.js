@@ -7,12 +7,13 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Welcome to the "I Drafted a QB in the First Round" Support Group. Where trades are as sketchy as Gerardo's cooking and your team's about to get fucked harder than Parker's last season.</p>
+<p>Rules:</p>
+<p> 1) Trades processed whenever Gerardo sobers up.</p>
+<p> 2) Veto system replaced by a complicated ritual involving a goat and Mercury's retrograde.</p>
+<p> 3) Parker banned from trading unless supervised by an adult.</p>
+<p> 4) League winner gets Gerardo's prized possession: a half-eaten Subway sandwich from 2019.</p>
+<p>Remember, we're here to Make Sunday Funday Again™ and talk mad shit. Embrace the spite vetos, the peacock threats, and the inevitable regret of trading away your star players. May your studs bust, your sleepers stay comatose, and for God's sake, someone teach Gerardo how to flip a damn burger.</p> 
 `;
 
 /*   STEP 3   */
