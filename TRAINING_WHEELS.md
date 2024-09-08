@@ -244,13 +244,10 @@ Generate a custom league page for your Sleeper fantasy football league in just a
 - If you want to replace the league page logo with your league's own logo, replece `static/badge.png` with your own 120px x 120px png file (using the same name)
 - If  you want to delve further, you can also edit your league constitution page `/src/routes/constitution/+page.svelte`
     - This page is primarily HTML, so you can edit this in a similar way to how you edited the homepage
-- If you and your league like League Page, please consider <b><a href="https://www.buymeacoffee.com/nmelhado" target="_blank">donating</a></b> (and encouraging your league-mates to too!)
+- If you and your league like League Page, please consider <b><a href="https://www.buymeacoffee.com/YoCoda" target="_blank">donating</a></b> (and encouraging your league-mates to too!)
 <div align="center">
-    <a href="https://www.buymeacoffee.com/nmelhado" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important; width: 217px !important;" width="217px" height="60px" ></a>
+    <a href="https://www.buymeacoffee.com/YoCoda" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important; width: 217px !important;" width="217px" height="60px" ></a>
 </div>
-
-- **If you run into any issues**, go back to [the original League Page repo](https://github.com/nmelhado/league-page) and open an [issue](https://github.com/nmelhado/league-page/issues/new?assignees=nmelhado&labels=bug&template=bug_report.md&title=%5BBUG%5D)
-- **If you have any recommendations**, go back to [the original League Page repo](https://github.com/nmelhado/league-page) and open a [feature request](https://github.com/nmelhado/league-page/issues/new?assignees=nmelhado&labels=enhancement&template=feature_request.md&title=%5BENHANCEMENT%5D)
 
 <br>
 <br>
