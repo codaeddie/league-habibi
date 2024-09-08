@@ -1,41 +1,15 @@
 {
   "name": "league-page",
   "version": "2.3.5",
-  "homepage": "https://github.com/nmelhado/league-page",
+  "homepage": "https://github.com/codaeddie/league-habibi",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nmelhado/league-page.git"
+    "url": "git://github.com/codaeddie/league-habibi.git"
   },
   "author": {
-    "name": "Nicholas Melhado",
-    "email": "n.melhado@gmail.com",
-    "url": "http://www.nmelhado.com/"
-  },
-  "contributors": [
-    {
-      "name": "Shane Tjong-Akiet",
-      "url": "https://github.com/shanetj"
-    },
-    {
-      "name": "Scottie Garcia",
-      "url": "https://github.com/scottiegarcia"
-    },
-    {
-      "name": "DOLO",
-      "url": "https://github.com/1600dolo"
-    },
-    {
-      "name": "OldNewsBlues-2",
-      "url": "https://github.com/OldNewsBlues-2"
-    }
-  ],
-  "funding": {
-    "type": "buy_me_a_coffee",
-    "url": "https://www.buymeacoffee.com/nmelhado"
-  },
-  "bugs": {
-    "url": "https://github.com/nmelhado/league-page/issues",
-    "email": "n.melhado@gmail.com"
+    "name": "yocoda",
+    "email": "eddiecoda24@gmail.com",
+    "url": "http://www.coda.omg.lol/"
   },
   "license": "MIT",
   "engines": {
