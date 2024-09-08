@@ -97,6 +97,7 @@
         display: block;
         position: relative;
         width: 100%;
+        padding: 20px 0 40px; /* Add padding to top and bottom */
     }
 </style>
 
