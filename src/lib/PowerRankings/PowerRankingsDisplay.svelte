@@ -103,6 +103,13 @@
 
 {#if validGraph && !seasonOver}
     <div class="enclosure">
-        <BarChart {graphs} bind:curGraph={curGraph} {leagueTeamManagers} />
+        <BarChart 
+            {graphs} 
+            bind:curGraph={curGraph} 
+            {leagueTeamManagers}
+            margin={{ top: 20, right: 20, bottom: 60, left: 60 }} /* Adjust margins */
+            barPadding={0.2} /* Add space between bars */
+            labelRotation={-45} /* Rotate labels to prevent overlap */
+        />
     </div>
 {/if}
